@@ -49,34 +49,19 @@ These instructions will help you set up the project on your local machine for de
    # Example for Node.js projects
    npm install
 
-   # Example for Python projects
-   # pip install -r requirements.txt
    ```
 
-3. **Set up environment variables (if needed):**
-   - Copy `.env.example` to `.env` and fill in the required values.
 
 ## Usage
 
 Explain how to run or use your project. Provide code snippets, commands, or screenshots if helpful.
 
 ```bash
-# Example command to start the application
-npm start
 
 # Or for Python projects
-python main.py
+npm run dev
 ```
 
-## Contributing
-
-Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
 
 ## License
 
@@ -85,7 +70,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - GitHub: [hkhrithik007](https://github.com/hkhrithik007)
-- [Add your email or other contact methods here]
 
 ---
 
